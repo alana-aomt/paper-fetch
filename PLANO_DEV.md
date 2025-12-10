@@ -10,10 +10,10 @@
 ### Semana 1: Setup e Busca Individual Básica
 
 #### 1.1 Configuração Inicial do Projeto
-- [ ] Criar projeto React com Vite
-- [ ] Configurar Tailwind CSS
-- [ ] Configurar estrutura de pastas (src/components, src/services, src/utils, src/hooks)
-- [ ] Instalar dependências principais (axios, citation-js, lucide-react)
+- [x] Criar projeto React com Vite
+- [x] Configurar Tailwind CSS
+- [x] Configurar estrutura de pastas (src/components, src/services, src/utils, src/hooks)
+- [x] Instalar dependências principais (axios, citation-js, lucide-react)
 - [ ] Configurar ESLint e Prettier
 
 #### 1.2 Parser de Referências - DOI e Título
